@@ -1,11 +1,14 @@
 .footer {
+  padding: 100px 0;
   background: #2e2f42;
 }
 
 .footer .logo {
+  margin-bottom: 16px;
   color: #f4f4fd;
 }
 
 .footer-desc {
+  max-width: 264px;
   color: #f4f4fd;
 }

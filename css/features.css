@@ -1,1 +1,19 @@
+.features {
+}
 
+.features-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+}
+
+.features-item {
+  width: calc((100% - 72px) / 4);
+}
+
+.features-section {
+}
+
+.features-desc {
+}
